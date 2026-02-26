@@ -2,9 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 
-/* a alteraÁ„o dos valores do vetor e feita no main
+/* a altera√ß√£o dos valores do vetor e feita no main
 
-/* ================= FUN«√O AUXILIAR ================= */
+/* ================= FUN√á√ÉO AUXILIAR ================= */
 int i,j;
 void printArray(int arr[], int n) {
     for(i = 0; i < n; i++)
